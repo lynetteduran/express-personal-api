@@ -1,7 +1,5 @@
 console.log("Sanity Check: JS is working!");
 
 $(document).ready(function(){
-
-// your code
-
+  console.log("You loaded, so that's a start")
 });
